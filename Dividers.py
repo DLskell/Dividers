@@ -1,4 +1,4 @@
-#insérez un nombre, il vous renverra tout les diviseurs de ce dernier
+#enter a number and it will return all its divisors
 a=int(input("Value : "))
 b=0
 c=1
