@@ -1,4 +1,4 @@
-#enter a number and it will return all its divisors
+#enter a number and it will return all its positive divisors
 a=int(input("Value : "))
 b=0
 c=1
